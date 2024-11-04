@@ -1,0 +1,35 @@
+# 1
+2024-09-29 10:41:07,350 check_top_page: 4.002713441848755 seconds
+2024-09-29 10:41:07,350 check_published_pages: 1.6329944133758545 seconds
+2024-09-29 10:41:07,350 check_published_posts: 45.396050691604614 seconds
+2024-09-29 10:41:07,350 check_login_page: 0.6220602989196777 seconds
+2024-09-29 10:41:07,350 create_post: 0.01846027374267578 seconds
+2024-09-29 10:41:07,350 Total Execution Time: 51.67227911949158 seconds
+
+# 2
+Execution Time Summary:
+2024-09-29 13:27:53,167 check_top_page: 0.11 seconds
+2024-09-29 13:27:53,167 check_login_page: 0.04 seconds
+2024-09-29 13:27:53,167 check_published_pages: 1.24 seconds
+2024-09-29 13:27:53,167 check_published_posts: 36.91 seconds
+2024-09-29 13:27:53,167 create_post: 0.02 seconds
+2024-09-29 13:27:53,167 
+Total Execution Time: 38.32 seconds
+2024-09-29 13:27:53,167 
+Item Counts Summary:
+2024-09-29 13:27:53,167 Total number of pages: 12
+2024-09-29 13:27:53,167 Total number of posts: 437
+
+#3 
+Execution Time Summary:
+2024-09-29 13:43:05,447 check_top_page: 1.91 seconds
+2024-09-29 13:43:05,447 check_login_page: 0.76 seconds
+2024-09-29 13:43:05,447 check_published_pages: 1.42 seconds
+2024-09-29 13:43:05,447 check_published_posts: 62.05 seconds
+2024-09-29 13:43:05,447 create_post: 0.02 seconds
+2024-09-29 13:43:05,447 
+Total Execution Time: 66.16 seconds
+2024-09-29 13:43:05,447 
+Item Counts Summary:
+2024-09-29 13:43:05,447 Total number of pages: 12
+2024-09-29 13:43:05,447 Total number of posts: 437
