@@ -45,7 +45,7 @@ pip3 install -r requirements.txt
 ### 結果の一部:
 File: FoucsCheck.py
 
-```pareto-kekka.log
+```bash
 2024-11-11 04:34:33,749 Top page is accessible.
 2024-11-11 04:34:33,750 Execution time for check_top_page: 0.18291187286376953 seconds
 2024-11-11 04:34:34,005 Top post "/archives/460" is accessible. View count difference: 451
