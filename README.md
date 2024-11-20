@@ -52,9 +52,28 @@ File: FoucsCheck.py
 2024-11-11 04:34:34,785 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2020/07/bft1-2.png" is accessible.
 2024-11-11 04:34:34,852 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2020/07/bft2.png" is accessible.
 ...
-2024-11-11 04:34:33,749 Top page is accessible.
-2024-11-11 04:34:33,750 Execution time for check_top_page: 0.18291187286376953 seconds
-2024-11-11 04:34:34,005 Top post "/archives/460" is accessible. View count difference: 451
-2024-11-11 04:34:34,785 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2020/07/bft1-2.png" is accessible.
-2024-11-11 04:34:34,852 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2020/07/bft2.png" is accessible.
+2024-11-11 04:35:10,180 Top post "/archives/3291" is accessible. View count difference: 7
+2024-11-11 04:35:10,187 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2023/02/IMG_20230209_171019-2-scaled.jpg" is accessible.
+2024-11-11 04:35:10,196 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2023/02/IMG_8998-scaled.jpg" is accessible.
+2024-11-11 04:35:10,203 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2023/02/IMG_8993-scaled.jpg" is accessible.
+2024-11-11 04:35:10,210 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2023/02/IMG_20230209_134927-1-scaled.jpg" is accessible.
+2024-11-11 04:35:10,217 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2023/02/IMG_8992-scaled.jpg" is accessible.
+2024-11-11 04:35:10,222 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2023/02/IMG_8994-scaled.jpg" is accessible.
+2024-11-11 04:35:10,226 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2023/02/IMG_8990-1-scaled.jpg" is accessible.
+2024-11-11 04:35:10,232 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2023/02/IMG_20230209_164637-scaled.jpg" is accessible.
+2024-11-11 04:35:10,238 Image "http://c0a21099-website-0916.a910.tak-cslab.org/wp-content/uploads/2023/02/IMG_20230209_130803-scaled.jpg" is accessible.
+2024-11-11 04:35:10,267 Top post "/archives/3060" is accessible. View count difference: 7
+2024-11-11 04:35:10,298 Top post "/archives/4491" is accessible. View count difference: 7
+2024-11-11 04:35:10,326 Top post "/archives/2826" is accessible. View count difference: 7
+2024-11-11 04:35:10,355 Top post "/archives/3450" is accessible. View count difference: 7
+2024-11-11 04:35:10,355 Execution time for check_top_pages_content: 4.331315994262695 seconds
+2024-11-11 04:35:10,468 Post created successfully: Title "New Post Title"
+2024-11-11 04:35:10,468 Execution time for create_post: 0.11319565773010254 seconds
+2024-11-11 04:35:10,494 Failed to delete post: ID 6177. Status Code: 404
+2024-11-11 04:35:10,494 Execution time for delete_post: 0.02551865577697754 seconds
+2024-11-11 04:35:10,494 check_top_page: 1.12 seconds
+2024-11-11 04:35:10,494 check_top_pages_content: 4.33 seconds
+2024-11-11 04:35:10,494 create_post: 0.11 seconds
+2024-11-11 04:35:10,494 delete_post: 0.03 seconds
+2024-11-11 04:35:10,494 Total execution time: 5.59 seconds
 ```
