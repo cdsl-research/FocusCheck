@@ -7,6 +7,8 @@
 <p>Python3で構成されています.</p>
 <p>仮想環境を読みこむことで実行することが可能です.</p>
 
+---
+
 ### 実行方法
 
 ```bash
@@ -17,6 +19,8 @@ pip3 install -U pip
 pip3 install -r requirements.txt
 ```
 
+---
+
 <p>File: All-Check.py</p>
 <p>WP REST API経由で, WordPressのデータベースに記録されているコンテンツ全てを探索します.</p>
 <p>コンテンツ全てを探索した際にかかったテストの実行時間の計測を行うプログラムです.</p>
@@ -25,8 +29,12 @@ pip3 install -r requirements.txt
 
 <p>トップページ, 固定ページ, 投稿記事のうち公開されているものをWP REST API経由で確認を行います. </p>
 
+---
+
 <p>File: DB-Write.py</p>
 <p>閲覧数の差分を取るために, データベースに接続し, WordPressのPluginである, WP Statisticsが取得した統計情報(閲覧数)を保存するプログラムです.</p>
+
+---
 
 <p>File: FoucsCheck.py</p>
 <p>パレートの法則にしたがい, バックアップデータをリストアした際のデータベース(2日分)に記録されている閲覧数を比較します.</p>
