@@ -40,6 +40,8 @@ pip3 install -r requirements.txt
 <p>パレートの法則にしたがい, バックアップデータをリストアした際のデータベース(2日分)に記録されている閲覧数を比較します.</p>
 <p>その後, トップページ, 固定ページ, 投稿記事の閲覧数を比較し, 閲覧数に差分のあったコンテンツのうち, 差分のあったコンテンツの値の上位2割を対象として定めた際の, テストの実行時間を計測するプログラムです.</p>
 
+---
+
 ### 確認項目
 - WordPressのブログコンテンツの確認
     - WordPressのトップページが閲覧できるか
@@ -49,6 +51,8 @@ pip3 install -r requirements.txt
     - 新しい記事が作成できるか
     - 投稿済みの記事が編集できるか
     - 投稿済みの記事が削除できるか
+
+---
 
 ### 結果の一部:
 File: FoucsCheck.py
@@ -85,3 +89,12 @@ File: FoucsCheck.py
 2024-11-11 04:35:10,494 delete_post: 0.03 seconds
 2024-11-11 04:35:10,494 Total execution time: 5.59 seconds
 ```
+
+## Terminalでの実行結果:
+<p>File: All-Check.py</p>
+
+
+
+<p>File : FocusCheck.py</p>
+
+
