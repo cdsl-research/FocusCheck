@@ -92,9 +92,16 @@ File: FoucsCheck.py
 
 ## Terminalでの実行結果:
 <p>File: All-Check.py</p>
-
+<p>実行開始時</p>
+![image](https://github.com/user-attachments/assets/8fc769a6-ded5-4819-9a63-f38c3d00d2b2)
+<p>実行終了時</p>
+![image](https://github.com/user-attachments/assets/c53db627-27be-4fb2-856c-2454b598ddfb)
 
 
 <p>File : FocusCheck.py</p>
+<p>実行開始時</p>
+![image](https://github.com/user-attachments/assets/cb6d0e11-3493-4719-b79a-708c1b00549b)
+<p>実行終了時</p>
+![image](https://github.com/user-attachments/assets/3648baa9-9d29-4569-8e01-d411b1a336a4)
 
 
